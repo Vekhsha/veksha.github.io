@@ -1,4 +1,3 @@
-    608 [main] bash 2127 cygwin_exception::open_stackdumpfile: Dumping stack trace to bash.exe.stackdump
 Stack trace:
 Frame         Function      Args
 0007FFFFCD30  00021006118E (0002102A6010, 000210272B51, 000000000059, 0007FFFFB6C0) msys-2.0.dll+0x2118E
@@ -23,9 +22,9 @@ Loaded modules:
 7FFA50850000 USER32.dll
 7FFA4ED60000 win32u.dll
 7FFA4F4C0000 GDI32.dll
-000210040000 msys-2.0.dll
 7FFA4EF20000 gdi32full.dll
 7FFA4EC30000 msvcp_win.dll
+000210040000 msys-2.0.dll
 7FFA4F090000 ucrtbase.dll
 7FFA4F6E0000 advapi32.dll
 7FFA50600000 msvcrt.dll
