@@ -1,3 +1,4 @@
+   1076 [main] sh 1986 cygwin_exception::open_stackdumpfile: Dumping stack trace to sh.exe.stackdump
 Stack trace:
 Frame         Function      Args
 0007FFFFCD30  00021006118E (0002102A6010, 000210272B51, 000000000059, 0007FFFFB6D0) msys-2.0.dll+0x2118E
